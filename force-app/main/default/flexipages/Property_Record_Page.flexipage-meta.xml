@@ -148,7 +148,6 @@
                 <value>true</value>
             </componentInstanceProperties>
             <componentName>PictureGalleryCard</componentName>
-            </componentInstanceProperties>
             <componentInstanceProperties>
                 <name>latField</name>
                 <value>Location__Latitude__s</value>
